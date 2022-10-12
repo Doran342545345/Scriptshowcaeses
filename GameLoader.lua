@@ -1,8 +1,7 @@
-local url = "https://raw.githubusercontent.com/doran08/Script65/main/Games"
+local url = "https://github.com/Doran342545345/Scriptshowcaeses/tree/main/games54"
 
 local games = {
-    [3652625463] = "Lifting simulator";
-    [10239643962] = "Explosion simulator";
+    [920587237] = "Adopt me";
 }
 
 for i,v in next, games do
