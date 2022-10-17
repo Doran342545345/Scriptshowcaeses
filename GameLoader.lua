@@ -4,6 +4,7 @@ local url = "https://raw.githubusercontent.com/Doran342545345/Scriptshowcaeses/m
 local games = {
 	[920587237] = "Adopt me";
 	[10386702469] = "Roblox but every second you grow";
+	[4282985734] = "Combat Warriors";
 }
 
 for i,v in next, games do
