@@ -6,6 +6,7 @@ local games = {
 	[10386702469] = "Roblox but every second you grow";
 	[4282985734] = "Combat Warriors";
 	[142823291] = "Murder Mystery 2";
+	[662417684] = "Lucky Blocks Battleground";
 }
 
 for i,v in next, games do
