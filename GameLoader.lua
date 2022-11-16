@@ -7,7 +7,9 @@ local games = {
 	[4282985734] = "Combat Warriors";
 	[142823291] = "Murder Mystery 2";
 	[662417684] = "Lucky Blocks Battleground";
-	[11346342371] = "making memes at 3 am tycoon";
+	[11346342371] = "Making Memes At 3 AM Tycoon";
+	
+	
 }
 
 for i,v in next, games do
