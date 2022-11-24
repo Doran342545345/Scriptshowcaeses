@@ -8,6 +8,7 @@ local games = {
 	[142823291] = "Murder Mystery 2";
 	[662417684] = "Lucky Blocks Battleground";
 	[11346342371] = "Making Memes At 3 AM Tycoon";
+	[9834528893] = "+1 Jump Every Second";
 	
 	
 }
