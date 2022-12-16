@@ -56,3 +56,12 @@ local Input = Farms:CreateInput({
 		game:GetService("Players").LocalPlayer.stats.companyxp.Value = Text
 	end,
 })
+
+local Input = Farms:CreateInput({
+	Name = "Fans",
+	PlaceholderText = "Input Placeholder",
+	RemoveTextAfterFocusLost = false,
+	Callback = function(Text)
+		game:GetService("Players").LocalPlayer.stats.fans.Value = Text
+	end,
+})
